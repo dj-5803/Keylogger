@@ -1,0 +1,3 @@
+Xlib==0.29
+pyxhook==1.0.0
+psutil==5.8.0
